@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/aboutus"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        android:title="About us"/>
+
+    <item
+        android:id="@+id/bangels"
+        android:icon="@drawable/ic_label_black_24dp"
+        android:title="Bangels"/>
+    <item
+        android:id="@+id/nosepins"
+        android:icon="@drawable/ic_label_black_24dp"
+        android:title="Nosepins"/>
+    <item
+        android:id="@+id/earings"
+        android:icon="@drawable/ic_label_black_24dp"
+        android:title="Earings"/>
+    <item
+        android:id="@+id/neckles"
+        android:icon="@drawable/ic_label_black_24dp"
+        android:title="Neckles"/>
+    <item
+        android:id="@+id/rings"
+        android:icon="@drawable/ic_label_black_24dp"
+        android:title="Rings"/>
+    <item
+        android:id="@+id/magalsutra"
+        android:icon="@drawable/ic_label_black_24dp"
+        android:title="Mangalsutra"/>
+    <item
+        android:id="@+id/bracelets"
+        android:icon="@drawable/ic_label_black_24dp"
+        android:title="Bracelets"/>
+
+    <item
+        android:id="@+id/chains"
+        android:icon="@drawable/ic_label_black_24dp"
+        android:title="Chains"/>
+    <item
+        android:id="@+id/contactus"
+        android:icon="@drawable/ic_contact_phone_black_24dp"
+        android:title="Contact us"/>
+
+
+
+</menu>
